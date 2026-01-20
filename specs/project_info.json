@@ -1,0 +1,16 @@
+{
+  "projectName": "Cron ve Otomatik Yedekleme Sistemi",
+  "category": "Automation and Planning",
+  "author": "Emre Cüneyt Demirel",
+  "version": "1.0.0",
+  "description": "Linux tabanlı sistemlerde zamanlanmış görev mantığını simüle eden ve hata yönetimi yapabilen bir yedekleme aracıdır.",
+  "features": [
+    "Otomatik Yedekleme (Cron Logic)",
+    "Hata Tespiti (Auto Control Ability)",
+    "Zaman Damgalı Loglama (Logging)"
+  ],
+  "requirements": {
+    "os": "Ubuntu 22.04 / Linux",
+    "language": "C (GCC)"
+  }
+}
